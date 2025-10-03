@@ -2,6 +2,8 @@
 
 A web-based focus reader with synchronized text-to-speech highlighting.
 
+![Focus Reader Interface](image.png)
+
 ## Run
 
 ```bash
